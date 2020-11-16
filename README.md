@@ -6,4 +6,4 @@ An application of JUnit tests on a Tictactoe application.
 * Java SE 14
 * JUnit
 ---
-Author: Kevin Chen (@kchendv)
+Author: Kevin Chen ([@kchendv](https://github.com/kchendv))
