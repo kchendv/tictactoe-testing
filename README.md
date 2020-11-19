@@ -2,7 +2,7 @@
 ## Summary
 An application of JUnit tests on a Tictactoe application.
 
-## Dependecies
+## Dependencies
 * Java SE 14
 * JUnit
 ---
